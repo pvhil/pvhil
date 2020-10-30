@@ -1,8 +1,9 @@
 ## Hi there, I'm Phil  
 
 - 🌱 I’m currently learning to code. In my repositories you can see my projects  
-- But in my projects i am trying my best!
-- Best project of mine: [FaceITBot](https://github.com/pvhil/FaceItDiscord). A Discord Bot with FaceIT Stats!
+- ⭐️ But in my projects i am trying my best!
+- ✔️ Best project of mine: [FaceITBot](https://github.com/pvhil/FaceItDiscord). A Discord Bot with FaceIT Stats!
+- 💲 If you want to support my work: [Donationlink](paypal..me/m4rk12)
 
 ### Socials
 
